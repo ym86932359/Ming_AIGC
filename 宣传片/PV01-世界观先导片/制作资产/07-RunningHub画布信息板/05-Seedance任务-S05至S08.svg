@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+      <radialGradient id="glow" cx="18%" cy="0%" r="78%"><stop offset="0%" stop-color="#58dfc1" stop-opacity="0.16"/><stop offset="100%" stop-color="#07090c" stop-opacity="0"/></radialGradient>
+      <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.42"/></filter>
+    </defs>
+    <rect width="1920" height="1080" fill="#07090c"/>
+    <rect width="1920" height="1080" fill="url(#glow)"/>
+    <rect x="42" y="36" width="10" height="76" rx="5" fill="#58dfc1"/>
+    <text x="78" y="76" fill="#eef4f2" font-size="42" font-weight="800" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">05｜Seedance任务 07—10</text>
+    <text x="80" y="108" fill="#9aa7aa" font-size="21" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">建立可信酒保 → 第一次撕开安全表面 → 恢复日常，确认同一身体切换</text>
+    <g filter="url(#shadow)"><g>
+    <rect x="100" y="165" width="840" height="370" rx="22" fill="#11161c" stroke="#d7aa63" stroke-width="3"/>
+    <rect x="100" y="165" width="840" height="58" rx="22" fill="#d7aa63" opacity="0.16"/>
+    <text x="124" y="204" fill="#d7aa63" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 07｜S05 日常欢迎</text>
+    
+    <text x="124" y="257" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">R2V/I2V｜日常v04＋KF02</text><text x="124" y="293.25" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">50mm中近景，仅4%慢推。匀速擦杯→门铃余音消失→停半拍抬眼。</text><text x="124" y="329.5" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">台词：欢迎。这里不卖遗忘。</text><text x="124" y="365.75" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：第一次直视镜头。</text>
+  </g><g>
+    <rect x="980" y="165" width="840" height="370" rx="22" fill="#11161c" stroke="#d7aa63" stroke-width="3"/>
+    <rect x="980" y="165" width="840" height="58" rx="22" fill="#d7aa63" opacity="0.16"/>
+    <text x="1004" y="204" fill="#d7aa63" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 08｜S06 你点的不是酒</text>
+    
+    <text x="1004" y="257" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">R2V/I2V｜日常v04＋KF02＋PROP01</text><text x="1004" y="293.25" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">65mm手部起；只做放杯一个动作；焦点由杯沿到眼睛。</text><text x="1004" y="329.5" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：头肩手眼线稳定，供S07硬切。</text>
+  </g><g>
+    <rect x="100" y="575" width="840" height="370" rx="22" fill="#11161c" stroke="#bd4a49" stroke-width="3"/>
+    <rect x="100" y="575" width="840" height="58" rx="22" fill="#bd4a49" opacity="0.16"/>
+    <text x="124" y="614" fill="#bd4a49" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 09｜S07 F01狞笑试探</text>
+    
+    <text x="124" y="667" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜B65-F01＋妆造v04＋KF02</text><text x="124" y="703.25" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">开场中性；句中轻笑一次、歪头10°；最后6帧回到中性正头。</text><text x="124" y="739.5" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">台词：当然不是。酒哪有秘密好喝？</text><text x="124" y="775.75" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：生成融脸与灯闪。</text>
+  </g><g>
+    <rect x="980" y="575" width="840" height="370" rx="22" fill="#11161c" stroke="#d7aa63" stroke-width="3"/>
+    <rect x="980" y="575" width="840" height="58" rx="22" fill="#d7aa63" opacity="0.16"/>
+    <text x="1004" y="614" fill="#d7aa63" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 10｜S08 第一遍</text>
+    
+    <text x="1004" y="667" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜日常v04＋KF02</text><text x="1004" y="703.25" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">严格匹配S07的65mm头肩与手位；开场已恢复日常。目光句中右偏4°，</text><text x="1004" y="739.5" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">最后6帧回镜头。</text><text x="1004" y="775.75" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">台词：第一遍，看你记得的。</text><text x="1004" y="812" fill="#eef4f2" font-size="25" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：正视镜头保持。</text>
+  </g></g>
+    <line x1="48" y1="1030" x2="1872" y2="1030" stroke="#263039" stroke-width="2"/>
+    <text x="48" y="1061" fill="#9aa7aa" font-size="18" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ZERO-ECHO-PV01｜RunningHub导演作战墙｜v02锁片｜本地已同步／画布待替换</text>
+  </svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+      <radialGradient id="glow" cx="18%" cy="0%" r="78%"><stop offset="0%" stop-color="#58dfc1" stop-opacity="0.16"/><stop offset="100%" stop-color="#07090c" stop-opacity="0"/></radialGradient>
+      <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.42"/></filter>
+    </defs>
+    <rect width="1920" height="1080" fill="#07090c"/>
+    <rect width="1920" height="1080" fill="url(#glow)"/>
+    <rect x="42" y="36" width="10" height="76" rx="5" fill="#58dfc1"/>
+    <text x="78" y="76" fill="#eef4f2" font-size="42" font-weight="800" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">00｜导演总控与状态图例</text>
+    <text x="80" y="108" fill="#9aa7aa" font-size="21" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">同体双声｜60秒正片＋4秒片尾｜14镜｜16任务｜C01—C08｜3840×2160／24fps</text>
+    <g filter="url(#shadow)"><g>
+    <rect x="48" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#58dfc1" stroke-width="3"/>
+    <rect x="48" y="150" width="586" height="58" rx="22" fill="#58dfc1" opacity="0.16"/>
+    <text x="72" y="189" fill="#58dfc1" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">核心命题</text>
+    
+    <text x="72" y="242" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">日常小铭给人再看一遍的勇气；小丑小铭让人无法再把怯</text><text x="72" y="275.35" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">懦叫作体面。</text><text x="72" y="308.7" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">观众视点：尚未入席的客人。</text>
+  </g><g>
+    <rect x="656" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#d7aa63" stroke-width="3"/>
+    <rect x="656" y="150" width="586" height="58" rx="22" fill="#d7aa63" opacity="0.16"/>
+    <text x="680" y="189" fill="#d7aa63" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">人物正史</text>
+    
+    <text x="680" y="242" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">continuity_id：XIAOMING-S1</text><text x="680" y="275.35" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">-ZERO-BARTENDER</text><text x="680" y="308.7" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">visual_asset_version：</text><text x="680" y="342.05" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">根目录v04</text><text x="680" y="375.4" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">日常／疯癫／蔑视均为同一身份。</text>
+  </g><g>
+    <rect x="1264" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#bd4a49" stroke-width="3"/>
+    <rect x="1264" y="150" width="586" height="58" rx="22" fill="#bd4a49" opacity="0.16"/>
+    <text x="1288" y="189" fill="#bd4a49" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">转化规则</text>
+    
+    <text x="1288" y="242" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">A日常 ↔ B疯癫 ↔ C蔑视。</text><text x="1288" y="275.35" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">常规同机位硬切；S10→S11唯一使用23帧明暗红</text><text x="1288" y="308.7" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">人格夺权。禁止镜中变身、液化融脸和双人叠影。</text>
+  </g><g>
+    <rect x="48" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#52ae72" stroke-width="3"/>
+    <rect x="48" y="522" width="586" height="58" rx="22" fill="#52ae72" opacity="0.16"/>
+    <text x="72" y="561" fill="#52ae72" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">状态编码</text>
+    
+    <text x="72" y="614" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">CANON 正史｜TODO 待生成</text><text x="72" y="647.35" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">REVIEW 待审｜ACCEPTED 可接续</text><text x="72" y="680.7" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">RETAKE 单变量返修｜REJECTED 禁用</text><text x="72" y="714.05" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ANIMATIC ONLY 仅导演预演。</text>
+  </g><g>
+    <rect x="656" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#b9a16a" stroke-width="3"/>
+    <rect x="656" y="522" width="586" height="58" rx="22" fill="#b9a16a" opacity="0.16"/>
+    <text x="680" y="561" fill="#b9a16a" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">视觉与交付</text>
+    
+    <text x="680" y="614" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">新国风赛博琉璃国漫CG。</text><text x="680" y="647.35" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">低饱和冷雨＋琥珀实景灯。</text><text x="680" y="680.7" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">主版64秒16:9；60—64秒片尾文字全部后期合</text><text x="680" y="714.05" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">成。</text>
+  </g><g>
+    <rect x="1264" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#d28a3d" stroke-width="3"/>
+    <rect x="1264" y="522" width="586" height="58" rx="22" fill="#d28a3d" opacity="0.16"/>
+    <text x="1288" y="561" fill="#d28a3d" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">当前闸门</text>
+    
+    <text x="1288" y="614" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">64秒v02锁片预演已渲染。Take02技术通过并</text><text x="1288" y="647.35" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">改编为S02源片；S01世界空镜、S03—S14、</text><text x="1288" y="680.7" fill="#eef4f2" font-size="23" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">正式本人配音与中文口型待生产。</text>
+  </g></g>
+    <line x1="48" y1="1030" x2="1872" y2="1030" stroke="#263039" stroke-width="2"/>
+    <text x="48" y="1061" fill="#9aa7aa" font-size="18" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ZERO-ECHO-PV01｜RunningHub导演作战墙｜v02锁片｜本地已同步／画布待替换</text>
+  </svg>

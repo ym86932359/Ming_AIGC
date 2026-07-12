@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+      <radialGradient id="glow" cx="18%" cy="0%" r="78%"><stop offset="0%" stop-color="#58dfc1" stop-opacity="0.16"/><stop offset="100%" stop-color="#07090c" stop-opacity="0"/></radialGradient>
+      <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.42"/></filter>
+    </defs>
+    <rect width="1920" height="1080" fill="#07090c"/>
+    <rect width="1920" height="1080" fill="url(#glow)"/>
+    <rect x="42" y="36" width="10" height="76" rx="5" fill="#58dfc1"/>
+    <text x="78" y="76" fill="#eef4f2" font-size="42" font-weight="800" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">06｜Seedance任务 11—14</text>
+    <text x="80" y="108" fill="#9aa7aa" font-size="21" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">价值争辩加速 → F03毒舌峰值；中文长句拆成两条口型板</text>
+    <g filter="url(#shadow)"><g>
+    <rect x="100" y="165" width="840" height="370" rx="22" fill="#11161c" stroke="#bd4a49" stroke-width="3"/>
+    <rect x="100" y="165" width="840" height="58" rx="22" fill="#bd4a49" opacity="0.16"/>
+    <text x="124" y="204" fill="#bd4a49" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 11｜S09 F02疯癫揭穿</text>
+    
+    <text x="124" y="257" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜B65-F02＋妆造v04＋KF02</text><text x="124" y="291.8" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">冷轮廓掠过后稳定；先快说“第二遍？”；一次短哈；再放慢，最后头回正。</text><text x="124" y="326.6" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：持续大笑、乱摆、发光眼。</text>
+  </g><g>
+    <rect x="980" y="165" width="840" height="370" rx="22" fill="#11161c" stroke="#d7aa63" stroke-width="3"/>
+    <rect x="980" y="165" width="840" height="58" rx="22" fill="#d7aa63" opacity="0.16"/>
+    <text x="1004" y="204" fill="#d7aa63" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 12｜S10 日常留余地</text>
+    
+    <text x="1004" y="257" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜日常v04＋KF02</text><text x="1004" y="291.8" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">匹配S09的65mm头肩手眼线；仅下颌轻放松与一次呼吸。</text><text x="1004" y="326.6" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">台词：有些事，不说，也能过去。</text><text x="1004" y="361.4" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">44.28秒后的23帧人格夺权全部交后期，不在本任务生成。</text>
+  </g><g>
+    <rect x="100" y="575" width="840" height="370" rx="22" fill="#11161c" stroke="#bd4a49" stroke-width="3"/>
+    <rect x="100" y="575" width="840" height="58" rx="22" fill="#bd4a49" opacity="0.16"/>
+    <text x="124" y="614" fill="#bd4a49" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 13｜S11A 毒舌起句</text>
+    
+    <text x="124" y="667" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V/FLF｜23帧夺权完成后的B65-F02为唯一首帧＋B85-F</text><text x="124" y="701.8" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">03落点＋KF02</text><text x="124" y="736.6" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">开场已是完整昏暗小丑；65→85mm一次轻推；狞笑开始消失。</text><text x="124" y="771.4" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">台词：过去？那叫藏好。</text><text x="124" y="806.2" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：靠近动作完成。</text>
+  </g><g>
+    <rect x="980" y="575" width="840" height="370" rx="22" fill="#11161c" stroke="#bd4a49" stroke-width="3"/>
+    <rect x="980" y="575" width="840" height="58" rx="22" fill="#bd4a49" opacity="0.16"/>
+    <text x="1004" y="614" fill="#bd4a49" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 14｜S11B 毒舌落点</text>
+    
+    <text x="1004" y="667" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">Continuation优先｜只接已验收S11A的真实末帧；</text><text x="1004" y="701.8" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">B85-F03只校验身份表情</text><text x="1004" y="736.6" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">头完全回正；说“怯懦”时突然停笑；句尾半秒静止。</text><text x="1004" y="771.4" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">台词：你们最爱把怯懦，改名叫体面。</text><text x="1004" y="806.2" fill="#eef4f2" font-size="24" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：额外推进、闪光与计划末帧冒充实际末帧。</text>
+  </g></g>
+    <line x1="48" y1="1030" x2="1872" y2="1030" stroke="#263039" stroke-width="2"/>
+    <text x="48" y="1061" fill="#9aa7aa" font-size="18" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ZERO-ECHO-PV01｜RunningHub导演作战墙｜v02锁片｜本地已同步／画布待替换</text>
+  </svg>

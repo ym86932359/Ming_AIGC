@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head><meta charset="UTF-8" /></head>
+  <body>
+    <template>
+      <style>
+        @font-face { font-family: "PV Sans SC"; src: url("assets/fonts/NotoSansCJKsc-Regular.otf") format("opentype"); font-weight: 400; }
+        @font-face { font-family: "PV Sans SC"; src: url("assets/fonts/NotoSansCJKsc-Bold.otf") format("opentype"); font-weight: 700; }
+        #root { position: absolute; inset: 0; width: 1920px; height: 1080px; overflow: hidden; background: #211b19; color: #d5cdc1; font-family: "PV Sans SC", sans-serif; }
+        .shot { position: absolute; inset: 0; overflow: hidden; background: #211b19; }
+        .shot-inner, .visual { position: absolute; inset: 0; overflow: hidden; }
+        .visual { transform-origin: 50% 50%; will-change: transform, filter; }
+        .board { position: absolute; width: 200%; height: 200%; max-width: none; object-fit: fill; user-select: none; }
+        .q1 { left: 0; top: 0; }.q2 { left: -100%; top: 0; }.q3 { left: 0; top: -100%; }.q4 { left: -100%; top: -100%; }
+        .grade { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(12,18,22,.12), transparent 48%, rgba(33,27,25,.16)); pointer-events: none; }
+        .vignette { position: absolute; inset: 0; box-shadow: inset 0 0 190px 42px rgba(4,7,9,.57); pointer-events: none; }
+        .grain { position: absolute; inset: 0; opacity: .13; mix-blend-mode: soft-light; background-image: repeating-radial-gradient(circle at 17% 23%, rgba(255,255,255,.22) 0 1px, transparent 1px 4px); background-size: 7px 7px; pointer-events: none; }
+        .meta { position: absolute; top: 62px; left: 80px; right: 80px; display: flex; justify-content: space-between; align-items: flex-start; font: 400 21px/1.2 "IBM Plex Mono", "SFMono-Regular", monospace; letter-spacing: .12em; color: #eee6da; text-shadow: 0 2px 14px rgba(0,0,0,.9); }
+        .meta > span { padding: 9px 12px; background: rgba(10,10,10,.7); }
+        .meta strong { color: #8dc5cc; font-weight: 500; }.meta strong.feral { color: #d28b98; }
+        .lens { text-align: right; color: #ddd5ca; }
+        .caption { position: absolute; left: 108px; right: 108px; bottom: 82px; display: flex; justify-content: center; pointer-events: none; }
+        .caption-panel { max-width: 1470px; padding: 17px 30px 19px 27px; border-left: 4px solid #b9793a; background: linear-gradient(90deg, rgba(26,20,18,.88), rgba(26,20,18,.48) 76%, transparent); text-shadow: 0 2px 18px #000; }
+        .caption-panel.feral { border-left-color: #77283a; background: linear-gradient(90deg, rgba(73,20,32,.9), rgba(38,16,22,.64) 75%, transparent); }
+        .speaker { display: block; margin-bottom: 7px; font: 400 17px/1 "IBM Plex Mono", "SFMono-Regular", monospace; letter-spacing: .18em; color: #b9793a; }
+        .feral .speaker { color: #d28b98; }
+        .dialogue { margin: 0; font-size: 50px; line-height: 1.28; font-weight: 700; letter-spacing: .035em; color: #eee6da; }
+        .focus-blur { position: absolute; inset: 0; opacity: 0; backdrop-filter: blur(11px); -webkit-backdrop-filter: blur(11px); mask-image: radial-gradient(ellipse 24% 40% at 49% 43%, transparent 0%, transparent 52%, #000 82%); -webkit-mask-image: radial-gradient(ellipse 24% 40% at 49% 43%, transparent 0%, transparent 52%, #000 82%); pointer-events: none; }
+        .frame-line { position: absolute; inset: 38px; border: 1px solid rgba(213,205,193,.16); pointer-events: none; }
+        .frame-line::before, .frame-line::after { content: ""; position: absolute; width: 72px; height: 2px; background: #59aab4; opacity: .55; }
+        .frame-line::before { left: -1px; top: -1px; }.frame-line::after { right: -1px; bottom: -1px; }
+        .phase-tag { position: absolute; right: 79px; bottom: 49px; padding: 6px 9px; background: rgba(10,10,10,.72); font: 400 16px/1 "IBM Plex Mono", monospace; letter-spacing: .16em; color: #eee6da; }
+        .progress { position: absolute; left: 80px; right: 80px; bottom: 44px; height: 2px; background: rgba(213,205,193,.14); overflow: hidden; }
+        .progress-fill { width: 0; height: 100%; background: #59aab4; box-shadow: 0 0 11px rgba(89,170,180,.62); }
+        .blackout, .flash, .warm-flash { position: absolute; inset: 0; opacity: 0; pointer-events: none; }
+        .blackout { background: #080707; }.flash { background: #d8faff; mix-blend-mode: screen; }.warm-flash { background: #b9793a; mix-blend-mode: screen; }
+      </style>
+
+      <div id="root" data-composition-id="phase-b" data-width="1920" data-height="1080" data-duration="18">
+        <section id="b-s05" class="clip shot" data-start="0" data-duration="4.999" data-track-index="1">
+          <div class="shot-inner"><div class="visual"><img class="board q1" src="assets/storyboards/PV01-导演分镜板-B-S05至S08-日常酒保与首次切换-v01.png" alt="日常小铭擦杯" /></div><div class="grade"></div><div class="vignette"></div><div class="grain"></div>
+            <div class="meta"><span><strong>PV01 / S05</strong> · 00:18:00</span><span class="lens">50MM · SLOW PUSH<br />A / DAILY</span></div>
+            <div class="caption"><div class="caption-panel"><span class="speaker">A / DAILY</span><p class="dialogue">欢迎。这里不卖遗忘。</p></div></div>
+          </div>
+        </section>
+        <section id="b-s06" class="clip shot" data-start="5" data-duration="4.999" data-track-index="1">
+          <div class="shot-inner"><div class="visual"><img class="board q2" src="assets/storyboards/PV01-导演分镜板-B-S05至S08-日常酒保与首次切换-v01.png" alt="日常小铭放下记忆杯" /></div><div class="grade"></div><div class="vignette"></div><div class="grain"></div>
+            <div class="meta"><span><strong>PV01 / S06</strong> · 00:23:00</span><span class="lens">65MM · LOCKED<br />A / DAILY</span></div>
+            <div class="caption"><div class="caption-panel"><span class="speaker">A / DAILY</span><p class="dialogue">你点的，不是酒。</p></div></div>
+          </div>
+        </section>
+        <section id="b-s07" class="clip shot" data-start="10" data-duration="3.999" data-track-index="1">
+          <div class="shot-inner"><div class="visual"><img class="board q3" src="assets/storyboards/PV01-导演分镜板-B-S05至S08-日常酒保与首次切换-v01.png" alt="疯癫小丑小铭第一次出现" /></div><div class="focus-blur"></div><div class="grade"></div><div class="vignette"></div><div class="grain"></div>
+            <div class="meta"><span><strong class="feral">PV01 / S07</strong> · 00:28:00</span><span class="lens">65MM · HARD SWITCH<br />B / FERAL / F01</span></div>
+            <div class="caption"><div class="caption-panel feral"><span class="speaker">B / FERAL / F01</span><p class="dialogue">当然不是。哈——酒哪有秘密好喝？</p></div></div>
+          </div>
+        </section>
+        <section id="b-s08" class="clip shot" data-start="14" data-duration="3.999" data-track-index="1">
+          <div class="shot-inner"><div class="visual"><img class="board q4" src="assets/storyboards/PV01-导演分镜板-B-S05至S08-日常酒保与首次切换-v01.png" alt="日常小铭恢复" /></div><div class="grade"></div><div class="vignette"></div><div class="grain"></div>
+            <div class="meta"><span><strong>PV01 / S08</strong> · 00:32:00</span><span class="lens">65MM · ABSOLUTE HOLD<br />A / DAILY</span></div>
+            <div class="caption"><div class="caption-panel"><span class="speaker">A / DAILY</span><p class="dialogue">第一遍，看你记得的。</p></div></div>
+          </div>
+        </section>
+        <div class="frame-line"></div><div class="progress"><div id="phase-progress" class="progress-fill"></div></div><div class="phase-tag">PHASE B / TRUST → FAULT</div>
+        <div id="blackout" class="blackout"></div><div id="flash" class="flash"></div><div id="warm-flash" class="warm-flash"></div>
+      </div>
+
+      <script>
+        window.__timelines = window.__timelines || {};
+        const tl = gsap.timeline({ paused: true });
+        tl.fromTo("#phase-progress", { width: "0%" }, { width: "100%", duration: 18, ease: "none" }, 0);
+        tl.fromTo("#b-s05 .visual", { scale: 1.015 }, { scale: 1.055, x: -7, duration: 5, ease: "sine.inOut" }, 0);
+        tl.fromTo("#b-s06 .visual", { scale: 1.015, y: 8 }, { scale: 1.07, y: -10, duration: 5, ease: "power1.inOut" }, 5);
+        tl.fromTo("#b-s07 .visual", { scale: 1.035 }, { scale: 1.045, duration: 4, ease: "none" }, 10);
+        tl.fromTo("#b-s08 .visual", { scale: 1.04 }, { scale: 1.04, duration: 4, ease: "none" }, 14);
+        [["#b-s05",0],["#b-s06",5],["#b-s07",10],["#b-s08",14]].forEach(([id,t]) => {
+          tl.fromTo(id + " .meta", { opacity: 0, y: -12 }, { opacity: 1, y: 0, duration: .42, ease: "power1.out" }, t + .12);
+          tl.fromTo(id + " .caption-panel", { opacity: 0, y: 17 }, { opacity: 1, y: 0, duration: .46, ease: "power1.out" }, t + .3);
+        });
+        tl.fromTo("#b-s07 .focus-blur", { opacity: 0 }, { opacity: .82, duration: .12, ease: "none" }, 10);
+        tl.to("#b-s07 .focus-blur", { opacity: .28, duration: .52, ease: "power1.out" }, 10.12);
+        tl.fromTo("#blackout", { opacity: 0 }, { opacity: .96, duration: .083, ease: "none" }, 9.917);
+        tl.to("#blackout", { opacity: 0, duration: .083, ease: "none" }, 10);
+        tl.fromTo("#flash", { opacity: 0 }, { opacity: .48, duration: .042, ease: "none" }, 10.02);
+        tl.to("#flash", { opacity: 0, duration: .09, ease: "none" }, 10.062);
+        tl.fromTo("#warm-flash", { opacity: 0 }, { opacity: .26, duration: .042, ease: "none" }, 13.958);
+        tl.to("#warm-flash", { opacity: 0, duration: .09, ease: "none" }, 14);
+        window.__timelines["phase-b"] = tl;
+      </script>
+    </template>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+      <radialGradient id="glow" cx="18%" cy="0%" r="78%"><stop offset="0%" stop-color="#58dfc1" stop-opacity="0.16"/><stop offset="100%" stop-color="#07090c" stop-opacity="0"/></radialGradient>
+      <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.42"/></filter>
+    </defs>
+    <rect width="1920" height="1080" fill="#07090c"/>
+    <rect width="1920" height="1080" fill="url(#glow)"/>
+    <rect x="42" y="36" width="10" height="76" rx="5" fill="#58dfc1"/>
+    <text x="78" y="76" fill="#eef4f2" font-size="42" font-weight="800" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">04｜Seedance任务 01—06</text>
+    <text x="80" y="108" fill="#9aa7aa" font-size="21" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">世界与机制｜正史重锚｜每条只有一个可见事件与完成终点</text>
+    <g filter="url(#shadow)"><g>
+    <rect x="48" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#77818c" stroke-width="3"/>
+    <rect x="48" y="150" width="586" height="58" rx="22" fill="#77818c" opacity="0.16"/>
+    <text x="72" y="189" fill="#77818c" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 01｜S01 世界先于入口</text>
+    
+    <text x="72" y="242" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜@WK02旧城空镜唯一源</text><text x="72" y="271" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">24mm贴近积水；近黑开场；冷白列车光只扫一次；</text><text x="72" y="300" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">末尾轻抬。</text><text x="72" y="329" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：旧城生活网络完整。</text><text x="72" y="358" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：酒馆门、招牌、人物与文字。</text>
+  </g><g>
+    <rect x="656" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#d28a3d" stroke-width="3"/>
+    <rect x="656" y="150" width="586" height="58" rx="22" fill="#d28a3d" opacity="0.16"/>
+    <text x="680" y="189" fill="#d28a3d" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 02｜S02 入口显现</text>
+    
+    <text x="680" y="242" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">V2V／编辑延展｜Take02作为入口源片，</text><text x="680" y="271" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">KF01 v02只校验建筑与门牌</text><text x="680" y="300" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">28mm眼平克制前移；保留雨、列车与实体“零号酒馆”。</text><text x="680" y="329" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：门只开10—15cm，近黑门板遮满画面。</text><text x="680" y="358" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：重做S01、穿门入室、额外文字。</text>
+  </g><g>
+    <rect x="1264" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#77818c" stroke-width="3"/>
+    <rect x="1264" y="150" width="586" height="58" rx="22" fill="#77818c" opacity="0.16"/>
+    <text x="1288" y="189" fill="#77818c" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 03｜S03 入酒馆</text>
+    
+    <text x="1288" y="242" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜@KF02空间唯一源</text><text x="1288" y="271" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">28mm／机高1.55m，沿吧台低速滑入；门铃一次。</text><text x="1288" y="300" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：九席、第七号、零号椅、黑门关系清楚。</text>
+  </g><g>
+    <rect x="48" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#77818c" stroke-width="3"/>
+    <rect x="48" y="522" width="586" height="58" rx="22" fill="#77818c" opacity="0.16"/>
+    <text x="72" y="561" fill="#77818c" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 04｜S04A 圆钟</text>
+    
+    <text x="72" y="614" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜@KF02圆钟墙面</text><text x="72" y="643" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">90mm微距固定约1.6秒；指针00:17；</text><text x="72" y="672" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">旧黄铜窄高光。</text><text x="72" y="701" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：完全静止。</text><text x="72" y="730" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：发光、滴答、额外文字。</text>
+  </g><g>
+    <rect x="656" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#77818c" stroke-width="3"/>
+    <rect x="656" y="522" width="586" height="58" rx="22" fill="#77818c" opacity="0.16"/>
+    <text x="680" y="561" fill="#77818c" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 05｜S04B 黑门</text>
+    
+    <text x="680" y="614" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜@KF02黑门</text><text x="680" y="643" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">90mm固定约1.6秒；门完全静止、无把手、</text><text x="680" y="672" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">无门缝光。</text><text x="680" y="701" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：漆面只留营业灯弱反射。</text><text x="680" y="730" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">禁：开门、人物、镜面异常。</text>
+  </g><g>
+    <rect x="1264" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#77818c" stroke-width="3"/>
+    <rect x="1264" y="522" width="586" height="58" rx="22" fill="#77818c" opacity="0.16"/>
+    <text x="1288" y="561" fill="#77818c" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">JOB 06｜S04C 记忆杯</text>
+    
+    <text x="1288" y="614" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">I2V｜@KF04／PROP01＋KF02台面</text><text x="1288" y="643" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">90mm微距约1.8秒；杯底故障青从无到有；</text><text x="1288" y="672" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">细薄玻璃谐振。</text><text x="1288" y="701" fill="#eef4f2" font-size="20" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">终点：青光只照内壁与极小桌面反射。</text>
+  </g></g>
+    <line x1="48" y1="1030" x2="1872" y2="1030" stroke="#263039" stroke-width="2"/>
+    <text x="48" y="1061" fill="#9aa7aa" font-size="18" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ZERO-ECHO-PV01｜RunningHub导演作战墙｜v02锁片｜本地已同步／画布待替换</text>
+  </svg>

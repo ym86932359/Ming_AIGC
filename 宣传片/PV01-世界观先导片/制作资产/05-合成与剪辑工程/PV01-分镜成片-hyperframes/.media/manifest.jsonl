@@ -1,0 +1,36 @@
+{"id":"image_001","type":"image","path":"assets/storyboards/PV01-导演分镜板-A-S01至S04-城市入口与世界建立-v01.png","source":"existing","description":"PV01导演分镜板A，S01至S04，城市入口与世界建立","provenance":{"provider":"local","adopted":true}}
+{"id":"image_002","type":"image","path":"assets/storyboards/PV01-导演分镜板-B-S05至S08-日常酒保与首次切换-v01.png","source":"existing","description":"PV01导演分镜板B，S05至S08，日常酒保与首次切换","provenance":{"provider":"local","adopted":true}}
+{"id":"image_003","type":"image","path":"assets/storyboards/PV01-导演分镜板-C-S09至S11-双声线价值冲突-v01.png","source":"existing","description":"PV01导演分镜板C，S09至S11，双声线价值冲突","provenance":{"provider":"local","adopted":true}}
+{"id":"image_004","type":"image","path":"assets/storyboards/PV01-导演分镜板-D-S12至S14-职责交接与片尾邀请-v01.png","source":"existing","description":"PV01导演分镜板D，S12至S14，职责交接与片尾邀请","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_001","type":"bgm","path":"assets/audio/final/01-daily-memory.wav","source":"existing","description":"01 daily memory","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_002","type":"bgm","path":"assets/audio/final/02-daily-self-deception.wav","source":"existing","description":"02 daily self deception","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_003","type":"bgm","path":"assets/audio/final/03-daily-door.wav","source":"existing","description":"03 daily door","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_004","type":"bgm","path":"assets/audio/final/04-daily-welcome.wav","source":"existing","description":"04 daily welcome","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_005","type":"bgm","path":"assets/audio/final/05-daily-not-wine.wav","source":"existing","description":"05 daily not wine","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_006","type":"bgm","path":"assets/audio/final/06-feral-secrets.wav","source":"existing","description":"06 feral secrets","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_007","type":"bgm","path":"assets/audio/final/07-daily-first-look.wav","source":"existing","description":"07 daily first look","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_008","type":"bgm","path":"assets/audio/final/08-feral-missing.wav","source":"existing","description":"08 feral missing","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_009","type":"bgm","path":"assets/audio/final/09-daily-let-pass.wav","source":"existing","description":"09 daily let pass","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_010","type":"bgm","path":"assets/audio/final/10-feral-decency.wav","source":"existing","description":"10 feral decency","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_011","type":"bgm","path":"assets/audio/final/11-daily-not-forget.wav","source":"existing","description":"11 daily not forget","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_012","type":"bgm","path":"assets/audio/final/12-contempt-expose.wav","source":"existing","description":"12 contempt expose","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_013","type":"bgm","path":"assets/audio/final/13-contempt-invite.wav","source":"existing","description":"13 contempt invite","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_014","type":"bgm","path":"assets/audio/final/ambience-rain-room.wav","source":"existing","description":"ambience rain room","provenance":{"provider":"local","adopted":true}}
+{"id":"sfx_001","type":"sfx","path":"assets/audio/final/sfx/cup-rim-echo.wav","source":"existing","description":"cup rim echo","provenance":{"provider":"local","adopted":true}}
+{"id":"sfx_002","type":"sfx","path":"assets/audio/final/sfx/door-bell.wav","source":"existing","description":"door bell","provenance":{"provider":"local","adopted":true}}
+{"id":"sfx_003","type":"sfx","path":"assets/audio/final/sfx/glass-memory-hum.wav","source":"existing","description":"glass memory hum","provenance":{"provider":"local","adopted":true}}
+{"id":"sfx_004","type":"sfx","path":"assets/audio/final/sfx/switch-pulse.wav","source":"existing","description":"switch pulse","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_015","type":"bgm","path":"assets/audio/raw/01-daily-memory.wav","source":"existing","description":"01 daily memory","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_016","type":"bgm","path":"assets/audio/raw-wav/01-daily-memory.wav","source":"existing","description":"01 daily memory","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_017","type":"bgm","path":"assets/audio/raw-wav/02-daily-self-deception.wav","source":"existing","description":"02 daily self deception","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_018","type":"bgm","path":"assets/audio/raw-wav/03-daily-door.wav","source":"existing","description":"03 daily door","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_019","type":"bgm","path":"assets/audio/raw-wav/04-daily-welcome.wav","source":"existing","description":"04 daily welcome","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_020","type":"bgm","path":"assets/audio/raw-wav/05-daily-not-wine.wav","source":"existing","description":"05 daily not wine","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_021","type":"bgm","path":"assets/audio/raw-wav/06-feral-secrets.wav","source":"existing","description":"06 feral secrets","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_022","type":"bgm","path":"assets/audio/raw-wav/07-daily-first-look.wav","source":"existing","description":"07 daily first look","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_023","type":"bgm","path":"assets/audio/raw-wav/08-feral-missing.wav","source":"existing","description":"08 feral missing","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_024","type":"bgm","path":"assets/audio/raw-wav/09-daily-let-pass.wav","source":"existing","description":"09 daily let pass","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_025","type":"bgm","path":"assets/audio/raw-wav/10-feral-decency.wav","source":"existing","description":"10 feral decency","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_026","type":"bgm","path":"assets/audio/raw-wav/11-daily-not-forget.wav","source":"existing","description":"11 daily not forget","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_027","type":"bgm","path":"assets/audio/raw-wav/12-contempt-expose.wav","source":"existing","description":"12 contempt expose","provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_028","type":"bgm","path":"assets/audio/raw-wav/13-contempt-invite.wav","source":"existing","description":"13 contempt invite","provenance":{"provider":"local","adopted":true}}

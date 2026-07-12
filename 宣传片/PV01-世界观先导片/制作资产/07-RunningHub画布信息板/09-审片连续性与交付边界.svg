@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+      <radialGradient id="glow" cx="18%" cy="0%" r="78%"><stop offset="0%" stop-color="#58dfc1" stop-opacity="0.16"/><stop offset="100%" stop-color="#07090c" stop-opacity="0"/></radialGradient>
+      <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000" flood-opacity="0.42"/></filter>
+    </defs>
+    <rect width="1920" height="1080" fill="#07090c"/>
+    <rect width="1920" height="1080" fill="url(#glow)"/>
+    <rect x="42" y="36" width="10" height="76" rx="5" fill="#58dfc1"/>
+    <text x="78" y="76" fill="#eef4f2" font-size="42" font-weight="800" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">09｜审片、连续性与交付边界</text>
+    <text x="80" y="108" fill="#9aa7aa" font-size="21" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">只有ACCEPTED成片或末帧可以成为下一任务参考；计划终点不等于实际终点</text>
+    <g filter="url(#shadow)"><g>
+    <rect x="48" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#52ae72" stroke-width="3"/>
+    <rect x="48" y="150" width="586" height="58" rx="22" fill="#52ae72" opacity="0.16"/>
+    <text x="72" y="189" fill="#52ae72" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">审片状态机</text>
+    
+    <text x="72" y="242" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">TODO → REVIEW → ACCEPTED／RETA</text><text x="72" y="272.45" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">KE／REJECTED。</text><text x="72" y="302.9" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">失败只修一个变量；同一镜三次失败后拆镜或转后期。</text><text x="72" y="333.35" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">REJECTED永不接入下一镜。</text>
+  </g><g>
+    <rect x="656" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#58dfc1" stroke-width="3"/>
+    <rect x="656" y="150" width="586" height="58" rx="22" fill="#58dfc1" opacity="0.16"/>
+    <text x="680" y="189" fill="#58dfc1" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">连续性回填</text>
+    
+    <text x="680" y="242" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">每条接受后记录：实际开始／结束姿态、手位、眼线、</text><text x="680" y="272.45" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">镜头相位、光线、声线、背景清晰度和开放运动。</text><text x="680" y="302.9" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">实际状态覆盖计划状态。</text>
+  </g><g>
+    <rect x="1264" y="150" width="586" height="350" rx="22" fill="#11161c" stroke="#77818c" stroke-width="3"/>
+    <rect x="1264" y="150" width="586" height="58" rx="22" fill="#77818c" opacity="0.16"/>
+    <text x="1288" y="189" fill="#77818c" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">参考传递格式</text>
+    
+    <text x="1288" y="242" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">[资产]只控制[身份／环境／姿态／道具／声音]；</text><text x="1288" y="272.45" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">忽略该参考中的[机位／动作／环境／音色／文字]。</text><text x="1288" y="302.9" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">身份优先级最高。</text>
+  </g><g>
+    <rect x="48" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#b53b3b" stroke-width="3"/>
+    <rect x="48" y="522" width="586" height="58" rx="22" fill="#b53b3b" opacity="0.16"/>
+    <text x="72" y="561" fill="#b53b3b" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">隔离区</text>
+    
+    <text x="72" y="614" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">KF05、KF07、历史版、候选版、原始真人照、</text><text x="72" y="644.45" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">失败Take与ANIMATIC ONLY均无生成下游。</text><text x="72" y="674.9" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">镜中对话只保留给正片母题。</text>
+  </g><g>
+    <rect x="656" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#8b72d9" stroke-width="3"/>
+    <rect x="656" y="522" width="586" height="58" rx="22" fill="#8b72d9" opacity="0.16"/>
+    <text x="680" y="561" fill="#8b72d9" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">导演预演说明</text>
+    
+    <text x="680" y="614" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">现有64秒v02由锁定资产与静态分镜构成，只验证时码、</text><text x="680" y="644.45" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">构图、台词、声线、23帧人格夺权和片尾艺术字。</text><text x="680" y="674.9" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">不得冒充Seedance动态终片。</text>
+  </g><g>
+    <rect x="1264" y="522" width="586" height="350" rx="22" fill="#11161c" stroke="#b9a16a" stroke-width="3"/>
+    <rect x="1264" y="522" width="586" height="58" rx="22" fill="#b9a16a" opacity="0.16"/>
+    <text x="1288" y="561" fill="#b9a16a" font-size="28" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">最终交付合同</text>
+    
+    <text x="1288" y="614" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ZERO-ECHO-PV01-世界观先导宣传片-64s-4</text><text x="1288" y="644.45" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">K-v02.mp4</text><text x="1288" y="674.9" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">60秒正片＋4秒片尾｜16:9｜3840×2160｜24f</text><text x="1288" y="705.35" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ps。</text><text x="1288" y="735.8" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">主版通过后再派生30秒、15秒和9:16；外部画布仍为v0</text><text x="1288" y="766.25" fill="#eef4f2" font-size="21" font-weight="400" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">1，待人工替换v02信息板。</text>
+  </g></g>
+    <line x1="48" y1="1030" x2="1872" y2="1030" stroke="#263039" stroke-width="2"/>
+    <text x="48" y="1061" fill="#9aa7aa" font-size="18" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">ZERO-ECHO-PV01｜RunningHub导演作战墙｜v02锁片｜本地已同步／画布待替换</text>
+  </svg>

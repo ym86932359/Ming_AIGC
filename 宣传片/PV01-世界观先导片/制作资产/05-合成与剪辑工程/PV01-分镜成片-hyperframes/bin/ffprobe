@@ -1,0 +1,4 @@
+#!/bin/zsh
+PROJECT_ROOT="${0:A:h:h}"
+export DYLD_LIBRARY_PATH="$PROJECT_ROOT/vendor/remotion-ffmpeg${DYLD_LIBRARY_PATH:+:$DYLD_LIBRARY_PATH}"
+exec "$PROJECT_ROOT/vendor/remotion-ffmpeg/ffprobe" "$@"
